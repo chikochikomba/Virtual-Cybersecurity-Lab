@@ -64,11 +64,11 @@ Beyond structured exercises, the lab is designed for practical application:
 ## 📚 Thesis Documentation
 
 For a complete, in-depth analysis of the project's design, implementation, and pedagogical foundation, please refer to the full thesis document:
-[Virtual_Cybersecurity_Lab_Thesis_Chikomborero_Chikomba.pdf](link_to_your_pdf)
+[Virtual_Cybersecurity_Lab_Thesis_Chikomborero_Chikomba.pdf](https://github.com/chikochikomba/Virtual-Cybersecurity-Lab/blob/698f6c81635a771f8bcac16010e74b70806b73a7/Virtual%20Cybersecurity%20Lab%20Documentation%20by%20Chikomborero%20Chikomba%202026%20Final.docx)
 
 ## 🧑‍💻 About Me
 
-I am an IT professional and soon-to-be Computer Science graduate passionate about cybersecurity. I built this lab to bridge the gap between theory and practice, and I am eager to apply these skills in a Security Operations Center (SOC) or as a Cybersecurity Analyst. Connect with me on [LinkedIn](your-linkedin-url).
+I am an IT professional and soon-to-be Computer Science graduate passionate about cybersecurity. I built this lab to bridge the gap between theory and practice, and I am eager to apply these skills in a Security Operations Center (SOC) or as a Cybersecurity Analyst. Connect with me on [LinkedIn](www.linkedin.com/in/chikomborerochikomba).
 
 ## 📄 License
 
