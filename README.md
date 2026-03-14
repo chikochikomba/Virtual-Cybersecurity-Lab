@@ -15,7 +15,7 @@ The lab is built on *VMware Workstation Pro* using a *Host-Only network* (192.16
 *   *Target (Metasploitable 2):* An intentionally vulnerable Ubuntu server, providing a realistic and safe target for practicing exploitation techniques.
 *   *Defender (Ubuntu Server 22.04):* A dedicated monitoring and defense platform, configured with tools for traffic analysis, intrusion detection, and firewall management.
 
-![System Design Architecture](link_to_your_architecture_diagram_image) 
+![System Design Architecture](https://github.com/chikochikomba/Virtual-Cybersecurity-Lab/blob/83f56279b7e0ef6c62a77861f4339e1b052251da/System%20Design%20Architecture.png)
 <!-- PRO TIP: Take a screenshot of Figure 1 from your thesis (page 30) and save it as an image in your repo. Link it here. -->
 
 ## 🛠️ Tools & Technologies Used
