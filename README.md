@@ -68,7 +68,8 @@ For a complete, in-depth analysis of the project's design, implementation, and p
 
 ## 🧑‍💻 About Me
 
-I am an IT professional and soon-to-be Computer Science graduate passionate about cybersecurity. I built this lab to bridge the gap between theory and practice, and I am eager to apply these skills in a Security Operations Center (SOC) or as a Cybersecurity Analyst. Connect with me on [LinkedIn](www.linkedin.com/in/chikomborerochikomba).
+I am an IT professional who is focused on systems, information and cybersecurity. I built this lab to bridge the gap between theory and practice. 
+Connect with me on [LinkedIn](www.linkedin.com/in/chikomborerochikomba).
 
 ## 📄 License
 
